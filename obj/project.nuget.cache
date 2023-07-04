@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tiDneM+GxtgSM3x/RgJ2Dt9VFPjbM47BrrQxVYE/NV2wzsJWYjQfxZZSr0FNn7blXVyxzs7rmsJeRDrqhUgWvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LATITUDE E5440\\source\\repos\\TAREA2\\TAREA2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LATITUDE E5440\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LATITUDE E5440\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\LATITUDE E5440\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\LATITUDE E5440\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
